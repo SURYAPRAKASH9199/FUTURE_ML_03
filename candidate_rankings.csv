@@ -1,101 +1,101 @@
 Rank,Candidate,Final_Score,TF_IDF_Score,Skill_Score,Skills_Found,Matched_Skills,Missing_Skills,Fit_Label
-1,Candidate_77,20.7,25.62,13.33,8,"linux, communication","r, cloud computing, java, bash, swift",Not Fit
-2,Candidate_42,19.95,24.36,13.33,7,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-3,Candidate_90,19.93,19.89,20.0,9,"sql, communication, excel","r, cloud computing, java, linux, bash",Not Fit
-4,Candidate_64,18.51,17.51,20.0,3,"linux, communication, azure","r, cloud computing, java, bash, swift",Not Fit
-5,Candidate_76,15.94,8.79,26.67,4,"r, sql, communication, excel","cloud computing, java, linux, bash, swift",Not Fit
-6,Candidate_47,14.49,19.7,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-7,Candidate_85,14.42,10.7,20.0,7,"java, sql, excel","r, cloud computing, linux, bash, swift",Not Fit
-8,Candidate_55,14.19,14.77,13.33,4,"sql, excel","r, cloud computing, java, linux, bash",Not Fit
-9,Candidate_63,14.07,14.56,13.33,4,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-10,Candidate_53,13.97,14.4,13.33,2,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-11,Candidate_9,13.5,13.61,13.33,3,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-12,Candidate_20,13.01,12.79,13.33,4,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-13,Candidate_87,12.93,8.21,20.0,4,"r, communication, excel","cloud computing, java, linux, bash, swift",Not Fit
-14,Candidate_100,12.89,12.6,13.33,2,"sql, excel","r, cloud computing, java, linux, bash",Not Fit
-15,Candidate_43,12.57,12.06,13.33,2,"sql, communication","r, cloud computing, java, linux, bash",Not Fit
-16,Candidate_95,12.4,11.78,13.33,2,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-17,Candidate_57,12.24,11.52,13.33,4,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-18,Candidate_94,12.14,11.34,13.33,3,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-19,Candidate_38,12.01,6.68,20.0,4,"r, communication, excel","cloud computing, java, linux, bash, swift",Not Fit
-20,Candidate_41,11.81,10.8,13.33,2,"sql, communication","r, cloud computing, java, linux, bash",Not Fit
-21,Candidate_83,11.18,9.75,13.33,2,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-22,Candidate_24,11.04,9.51,13.33,2,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-23,Candidate_66,10.9,13.72,6.67,5,communication,"r, cloud computing, java, linux, bash",Not Fit
-24,Candidate_68,10.79,13.53,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-25,Candidate_69,10.68,17.8,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-26,Candidate_32,10.41,12.91,6.67,4,communication,"r, cloud computing, java, linux, bash",Not Fit
-27,Candidate_33,10.26,12.65,6.67,5,communication,"r, cloud computing, java, linux, bash",Not Fit
-28,Candidate_3,10.16,8.04,13.33,6,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-29,Candidate_13,9.92,7.65,13.33,3,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-30,Candidate_36,9.88,12.02,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-31,Candidate_96,9.87,7.56,13.33,3,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-32,Candidate_52,9.87,12.0,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-33,Candidate_11,9.81,11.9,6.67,1,excel,"r, cloud computing, java, linux, bash",Not Fit
-34,Candidate_31,9.69,7.26,13.33,4,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-35,Candidate_1,9.36,11.15,6.67,4,communication,"r, cloud computing, java, linux, bash",Not Fit
-36,Candidate_27,9.21,6.47,13.33,3,"r, excel","cloud computing, java, linux, bash, swift",Not Fit
-37,Candidate_58,9.09,10.71,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-38,Candidate_97,9.07,6.23,13.33,4,"communication, excel","r, cloud computing, java, linux, bash",Not Fit
-39,Candidate_99,9.06,10.66,6.67,3,communication,"r, cloud computing, java, linux, bash",Not Fit
-40,Candidate_88,9.05,10.63,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-41,Candidate_14,8.69,10.03,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-42,Candidate_54,8.54,9.78,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-43,Candidate_28,8.52,9.76,6.67,4,excel,"r, cloud computing, java, linux, bash",Not Fit
-44,Candidate_82,8.48,9.68,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-45,Candidate_70,8.45,9.63,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-46,Candidate_21,8.39,9.53,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-47,Candidate_89,8.24,9.28,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-48,Candidate_45,8.13,9.1,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-49,Candidate_26,8.07,9.0,6.67,1,r,"cloud computing, java, linux, bash, swift",Not Fit
-50,Candidate_39,8.07,9.01,6.67,6,communication,"r, cloud computing, java, linux, bash",Not Fit
-51,Candidate_30,7.79,8.54,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-52,Candidate_56,7.76,8.49,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-53,Candidate_78,7.7,8.39,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-54,Candidate_12,7.58,8.19,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-55,Candidate_86,7.55,8.13,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-56,Candidate_73,7.46,7.99,6.67,3,communication,"r, cloud computing, java, linux, bash",Not Fit
-57,Candidate_67,7.43,7.94,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-58,Candidate_19,7.42,12.36,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-59,Candidate_8,7.38,7.85,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-60,Candidate_46,7.38,7.85,6.67,4,communication,"r, cloud computing, java, linux, bash",Not Fit
-61,Candidate_17,7.37,7.84,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-62,Candidate_80,7.31,7.73,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-63,Candidate_79,7.25,7.63,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-64,Candidate_18,7.02,7.26,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-65,Candidate_10,6.94,7.12,6.67,2,r,"cloud computing, java, linux, bash, swift",Not Fit
-66,Candidate_84,6.84,6.95,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-67,Candidate_16,6.82,6.92,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-68,Candidate_91,6.59,6.53,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-69,Candidate_61,6.45,6.3,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-70,Candidate_50,6.41,6.24,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-71,Candidate_34,6.33,6.11,6.67,3,excel,"r, cloud computing, java, linux, bash",Not Fit
-72,Candidate_7,6.26,5.98,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-73,Candidate_23,6.2,5.89,6.67,1,excel,"r, cloud computing, java, linux, bash",Not Fit
-74,Candidate_59,5.85,5.3,6.67,1,r,"cloud computing, java, linux, bash, swift",Not Fit
-75,Candidate_51,5.82,5.25,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-76,Candidate_15,5.69,5.04,6.67,1,excel,"r, cloud computing, java, linux, bash",Not Fit
-77,Candidate_22,5.63,9.38,0.0,2,None,"r, cloud computing, java, linux, bash",Not Fit
-78,Candidate_49,5.51,4.73,6.67,2,excel,"r, cloud computing, java, linux, bash",Not Fit
-79,Candidate_75,5.47,9.11,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-80,Candidate_74,5.38,8.96,0.0,2,None,"r, cloud computing, java, linux, bash",Not Fit
-81,Candidate_92,5.38,8.96,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-82,Candidate_35,5.31,4.4,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-83,Candidate_44,5.06,8.43,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-84,Candidate_72,4.97,3.83,6.67,1,communication,"r, cloud computing, java, linux, bash",Not Fit
-85,Candidate_5,4.96,8.27,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-86,Candidate_98,4.9,8.17,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-87,Candidate_62,4.87,8.12,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-88,Candidate_37,4.77,3.5,6.67,2,communication,"r, cloud computing, java, linux, bash",Not Fit
-89,Candidate_65,4.69,7.81,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-90,Candidate_81,4.63,7.72,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-91,Candidate_40,4.57,7.61,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-92,Candidate_6,4.1,6.84,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-93,Candidate_48,4.08,6.8,0.0,1,None,"r, cloud computing, java, linux, bash",Not Fit
-94,Candidate_71,3.61,6.01,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-95,Candidate_25,3.47,5.79,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-96,Candidate_2,3.27,5.45,0.0,2,None,"r, cloud computing, java, linux, bash",Not Fit
-97,Candidate_93,2.53,4.21,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-98,Candidate_60,2.24,3.73,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-99,Candidate_4,2.12,3.53,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
-100,Candidate_29,1.93,3.21,0.0,0,None,"r, cloud computing, java, linux, bash",Not Fit
+1,Candidate_77,20.7,25.62,13.33,8,"linux, communication","java, r, bash, python, excel",Not Fit
+2,Candidate_42,19.95,24.36,13.33,7,"excel, communication","java, r, bash, python, perl",Not Fit
+3,Candidate_90,19.93,19.89,20.0,9,"excel, sql, communication","java, r, bash, python, perl",Not Fit
+4,Candidate_64,18.51,17.51,20.0,3,"linux, communication, azure","java, r, bash, python, excel",Not Fit
+5,Candidate_76,15.94,8.79,26.67,4,"r, excel, sql, communication","java, bash, python, perl, ansible",Not Fit
+6,Candidate_47,14.49,19.7,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+7,Candidate_85,14.42,10.7,20.0,7,"java, excel, sql","r, bash, python, perl, ansible",Not Fit
+8,Candidate_55,14.19,14.77,13.33,4,"excel, sql","java, r, bash, python, perl",Not Fit
+9,Candidate_63,14.07,14.56,13.33,4,"excel, communication","java, r, bash, python, perl",Not Fit
+10,Candidate_53,13.97,14.4,13.33,2,"excel, communication","java, r, bash, python, perl",Not Fit
+11,Candidate_9,13.5,13.61,13.33,3,"excel, communication","java, r, bash, python, perl",Not Fit
+12,Candidate_20,13.01,12.79,13.33,4,"excel, communication","java, r, bash, python, perl",Not Fit
+13,Candidate_87,12.93,8.21,20.0,4,"r, excel, communication","java, bash, python, perl, ansible",Not Fit
+14,Candidate_100,12.89,12.6,13.33,2,"excel, sql","java, r, bash, python, perl",Not Fit
+15,Candidate_43,12.57,12.06,13.33,2,"sql, communication","java, r, bash, python, excel",Not Fit
+16,Candidate_95,12.4,11.78,13.33,2,"excel, communication","java, r, bash, python, perl",Not Fit
+17,Candidate_57,12.24,11.52,13.33,4,"excel, communication","java, r, bash, python, perl",Not Fit
+18,Candidate_94,12.14,11.34,13.33,3,"excel, communication","java, r, bash, python, perl",Not Fit
+19,Candidate_38,12.01,6.68,20.0,4,"r, excel, communication","java, bash, python, perl, ansible",Not Fit
+20,Candidate_41,11.81,10.8,13.33,2,"sql, communication","java, r, bash, python, excel",Not Fit
+21,Candidate_83,11.18,9.75,13.33,2,"excel, communication","java, r, bash, python, perl",Not Fit
+22,Candidate_24,11.04,9.51,13.33,2,"excel, communication","java, r, bash, python, perl",Not Fit
+23,Candidate_66,10.9,13.72,6.67,5,communication,"java, r, bash, python, excel",Not Fit
+24,Candidate_68,10.79,13.53,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+25,Candidate_69,10.68,17.8,0.0,1,None,"java, r, bash, python, excel",Not Fit
+26,Candidate_32,10.41,12.91,6.67,4,communication,"java, r, bash, python, excel",Not Fit
+27,Candidate_33,10.26,12.65,6.67,5,communication,"java, r, bash, python, excel",Not Fit
+28,Candidate_3,10.16,8.04,13.33,6,"excel, communication","java, r, bash, python, perl",Not Fit
+29,Candidate_13,9.92,7.65,13.33,3,"excel, communication","java, r, bash, python, perl",Not Fit
+30,Candidate_36,9.88,12.02,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+31,Candidate_96,9.87,7.56,13.33,3,"excel, communication","java, r, bash, python, perl",Not Fit
+32,Candidate_52,9.87,12.0,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+33,Candidate_11,9.81,11.9,6.67,1,excel,"java, r, bash, python, perl",Not Fit
+34,Candidate_31,9.69,7.26,13.33,4,"excel, communication","java, r, bash, python, perl",Not Fit
+35,Candidate_1,9.36,11.15,6.67,4,communication,"java, r, bash, python, excel",Not Fit
+36,Candidate_27,9.21,6.47,13.33,3,"r, excel","java, bash, python, perl, ansible",Not Fit
+37,Candidate_58,9.09,10.71,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+38,Candidate_97,9.07,6.23,13.33,4,"excel, communication","java, r, bash, python, perl",Not Fit
+39,Candidate_99,9.06,10.66,6.67,3,communication,"java, r, bash, python, excel",Not Fit
+40,Candidate_88,9.05,10.63,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+41,Candidate_14,8.69,10.03,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+42,Candidate_54,8.54,9.78,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+43,Candidate_28,8.52,9.76,6.67,4,excel,"java, r, bash, python, perl",Not Fit
+44,Candidate_82,8.48,9.68,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+45,Candidate_70,8.45,9.63,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+46,Candidate_21,8.39,9.53,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+47,Candidate_89,8.24,9.28,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+48,Candidate_45,8.13,9.1,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+49,Candidate_26,8.07,9.0,6.67,1,r,"java, bash, python, excel, perl",Not Fit
+50,Candidate_39,8.07,9.01,6.67,6,communication,"java, r, bash, python, excel",Not Fit
+51,Candidate_30,7.79,8.54,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+52,Candidate_56,7.76,8.49,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+53,Candidate_78,7.7,8.39,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+54,Candidate_12,7.58,8.19,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+55,Candidate_86,7.55,8.13,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+56,Candidate_73,7.46,7.99,6.67,3,communication,"java, r, bash, python, excel",Not Fit
+57,Candidate_67,7.43,7.94,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+58,Candidate_19,7.42,12.36,0.0,1,None,"java, r, bash, python, excel",Not Fit
+59,Candidate_8,7.38,7.85,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+60,Candidate_46,7.38,7.85,6.67,4,communication,"java, r, bash, python, excel",Not Fit
+61,Candidate_17,7.37,7.84,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+62,Candidate_80,7.31,7.73,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+63,Candidate_79,7.25,7.63,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+64,Candidate_18,7.02,7.26,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+65,Candidate_10,6.94,7.12,6.67,2,r,"java, bash, python, excel, perl",Not Fit
+66,Candidate_84,6.84,6.95,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+67,Candidate_16,6.82,6.92,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+68,Candidate_91,6.59,6.53,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+69,Candidate_61,6.45,6.3,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+70,Candidate_50,6.41,6.24,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+71,Candidate_34,6.33,6.11,6.67,3,excel,"java, r, bash, python, perl",Not Fit
+72,Candidate_7,6.26,5.98,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+73,Candidate_23,6.2,5.89,6.67,1,excel,"java, r, bash, python, perl",Not Fit
+74,Candidate_59,5.85,5.3,6.67,1,r,"java, bash, python, excel, perl",Not Fit
+75,Candidate_51,5.82,5.25,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+76,Candidate_15,5.69,5.04,6.67,1,excel,"java, r, bash, python, perl",Not Fit
+77,Candidate_22,5.63,9.38,0.0,2,None,"java, r, bash, python, excel",Not Fit
+78,Candidate_49,5.51,4.73,6.67,2,excel,"java, r, bash, python, perl",Not Fit
+79,Candidate_75,5.47,9.11,0.0,1,None,"java, r, bash, python, excel",Not Fit
+80,Candidate_74,5.38,8.96,0.0,2,None,"java, r, bash, python, excel",Not Fit
+81,Candidate_92,5.38,8.96,0.0,1,None,"java, r, bash, python, excel",Not Fit
+82,Candidate_35,5.31,4.4,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+83,Candidate_44,5.06,8.43,0.0,1,None,"java, r, bash, python, excel",Not Fit
+84,Candidate_72,4.97,3.83,6.67,1,communication,"java, r, bash, python, excel",Not Fit
+85,Candidate_5,4.96,8.27,0.0,1,None,"java, r, bash, python, excel",Not Fit
+86,Candidate_98,4.9,8.17,0.0,1,None,"java, r, bash, python, excel",Not Fit
+87,Candidate_62,4.87,8.12,0.0,0,None,"java, r, bash, python, excel",Not Fit
+88,Candidate_37,4.77,3.5,6.67,2,communication,"java, r, bash, python, excel",Not Fit
+89,Candidate_65,4.69,7.81,0.0,1,None,"java, r, bash, python, excel",Not Fit
+90,Candidate_81,4.63,7.72,0.0,0,None,"java, r, bash, python, excel",Not Fit
+91,Candidate_40,4.57,7.61,0.0,1,None,"java, r, bash, python, excel",Not Fit
+92,Candidate_6,4.1,6.84,0.0,1,None,"java, r, bash, python, excel",Not Fit
+93,Candidate_48,4.08,6.8,0.0,1,None,"java, r, bash, python, excel",Not Fit
+94,Candidate_71,3.61,6.01,0.0,0,None,"java, r, bash, python, excel",Not Fit
+95,Candidate_25,3.47,5.79,0.0,0,None,"java, r, bash, python, excel",Not Fit
+96,Candidate_2,3.27,5.45,0.0,2,None,"java, r, bash, python, excel",Not Fit
+97,Candidate_93,2.53,4.21,0.0,0,None,"java, r, bash, python, excel",Not Fit
+98,Candidate_60,2.24,3.73,0.0,0,None,"java, r, bash, python, excel",Not Fit
+99,Candidate_4,2.12,3.53,0.0,0,None,"java, r, bash, python, excel",Not Fit
+100,Candidate_29,1.93,3.21,0.0,0,None,"java, r, bash, python, excel",Not Fit
